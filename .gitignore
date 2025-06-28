@@ -21,3 +21,14 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
+
+# Build output (IMPORTANT - don't commit build files)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
