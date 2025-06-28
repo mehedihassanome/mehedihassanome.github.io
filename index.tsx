@@ -7,7 +7,7 @@ const caseStudiesData = [
         title: "PUMA Flagship Outlet Launch – '#chasethegreatness' Campaign",
         client: "PUMA Bangladesh",
         role: "Strategic and Planning Executive",
-        story: "PUMA aimed to make a significant splash in Chattogram, Bangladesh's second-largest city. The challenge was to go beyond a simple store opening. My strategy centered on an innovative, integrated digital and on-ground campaign incorporating AI-driven customer segmentation, viral social media teasers with world-class cricketers, and a grand launch event. We even transformed a car into a life-like PUMA sports shoe for visual impact, focusing on driving both online engagement and offline visitation.",
+        story: "PUMA aimed to make a significant splash in Chattogram, Bangladesh's second-largest city. The challenge was to go beyond a simple store opening. My strategy centered on an innovative, integrated digital and on-ground campaign incorporating AI-driven customer segmentation, viral social media teasers with world-class cricketers, and a grand launch event. We eventransformed a car into a life-like PUMA sports shoe for visual impact, focusing on driving both online engagement and offline visitation.",
         results: [
             "Achieved a 150% increase in opening day foot traffic.",
             "Recorded a 35% conversion rate on the campaign microsite.",
