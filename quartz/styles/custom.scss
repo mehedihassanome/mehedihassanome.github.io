@@ -1,3 +1,238 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+// --- Custom SCSS for Quartz v4 Modern Card-Based Theme ---
+
+// This stylesheet implements a clean, card-based design with improved typography,
+// providing visual separation and depth using borders and shadows, while ensuring
+// full automatic dark/light mode compatibility.
+
+// 1. GLOBAL RESET & BASE TYPOGRAPHY
+// ------------------------------------
+
+body {
+  // Ensure smooth font rendering
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Global variables for spacing and geometry
+:root {
+  --radius: 8px; // Slightly larger radius for a softer card look
+  --gap-s: 0.5rem;
+  --gap-m: 1rem;
+  --gap-l: 1.5rem; // Adjusted spacing for the card model
+}
+
+// 2. LAYOUT & CONTAINER STYLING (The "Card" Effect)
+// --------------------------------------------------
+
+.page {
+  // Use the main background color for the overall page canvas
+  background-color: var(--background);
+  min-height: 100vh;
+}
+
+.sidebar, .center {
+  padding: 0; // Remove default layout padding
+}
+
+// Style the main content area (center) and sidebars as distinct cards.
+.center > .page-header,
+.center > .content,
+.left > .sidebar,
+.right > .sidebar {
+  // Use 'light' variable for the card background, providing subtle contrast
+  background-color: var(--light);
+  border-radius: var(--radius);
+  // Subtle border for definition, using the border tone
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); // Subtle shadow for depth
+  margin-bottom: var(--gap-l);
+  padding: var(--gap-l); // Apply internal card padding
+}
+
+// Ensure the sidebars remain sticky in the card context
+.left > .sidebar,
+.right > .sidebar {
+    position: sticky;
+    top: var(--gap-l); 
+    max-height: calc(100vh - 2 * var(--gap-l));
+    overflow-y: auto; 
+}
+
+// Remove card styling from components that don't need it (like page title, search/darkmode button wrapper)
+.page-title,
+.flex-component {
+    border: none;
+    box-shadow: none;
+    background-color: transparent !important;
+    padding: 0;
+    margin-bottom: var(--gap-l);
+}
+
+// 3. ARTICLE READABILITY & TYPOGRAPHY (High-Contrast Focus)
+// -------------------------------------
+
+.content p, .content li {
+  line-height: 1.8; // Increased line-height for better readability
+  margin-bottom: 1.2em;
+  max-width: 70ch; // Optimal max width for reading flow
+}
+
+// Headings - Use thicker lines for separation
+.content h1, .content h2, .content h3, .content h4 {
+  border-bottom: 3px solid var(--border); // Use border color for separation line
+  padding-bottom: 0.25em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.article-title {
+  font-size: 3rem; 
+  font-weight: 900;
+  margin-bottom: var(--gap-m);
+  line-height: 1.1;
+  color: var(--text);
+}
+
+.content-meta {
+  color: var(--secondary);
+  font-size: 0.85em;
+  // Using calc() for CSS variable multiplication
+  margin-bottom: calc(2 * var(--gap-l)); 
+  display: block;
+}
+
+// 4. COMPONENTS
+// -------------------------------------
+
+// Links - Underline on hover for focus
+a {
+    transition: color 0.2s, border-bottom 0.2s;
+    text-decoration: none; 
+    border-bottom: 1px solid transparent; 
+    
+    &:hover {
+        border-bottom: 1px solid var(--link); 
+    }
+}
+
+// Tags - Styled as distinct, rounded buttons
+.tags .tag-link {
+  display: inline-block;
+  background-color: var(--highlight); 
+  color: var(--text); 
+  border: 1px solid var(--border);
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px; // Pill shape
+  font-size: 0.8em;
+  text-decoration: none;
+  transition: all 0.2s;
+  
+  &:hover {
+    background-color: var(--tertiary); 
+    color: var(--light); 
+    border-color: var(--tertiary);
+  }
+}
+
+// Explorer - Clean, list-style navigation
+.explorer-ul a, .explorer-ul .folder-button {
+    font-size: 1em;
+    padding: 0.35rem 0.5rem;
+    border-radius: var(--radius);
+    transition: background-color 0.15s;
+
+    &:hover {
+        background-color: var(--border); // Simple highlight on hover
+    }
+}
+
+// Active link in explorer
+.explorer-ul .internal[aria-current="page"] {
+    background-color: var(--tertiary); 
+    color: var(--light) !important; 
+    font-weight: 600;
+}
+
+// Callouts (Admonitions) - Less boxy, more border-focused
+.callout {
+  border: 1px solid var(--border);
+  border-left: 6px solid var(--tertiary); // Thicker, prominent left border
+  border-radius: var(--radius);
+  padding: var(--gap-m);
+  margin: var(--gap-l) 0;
+  background-color: var(--background); // Use background color inside the card
+  box-shadow: none; // Keep shadow off internal callouts
+
+  .callout-title {
+    font-weight: 700;
+    margin-bottom: var(--gap-s);
+    color: var(--text); 
+  }
+}
+
+
+// 5. FOOTER
+// -------------------------------------
+.page-footer {
+  text-align: center;
+  font-size: 0.75em;
+  color: var(--secondary);
+  padding: var(--gap-l) 0;
+  border-top: 1px solid var(--border); // Subtle line to separate from content
+  // Using calc() for CSS variable multiplication
+  margin-top: calc(2 * var(--gap-l));
+}
+
+// 6. MOBILE RESPONSIVENESS (<= 768px)
+// --------------------------------------------------
+
+@media (max-width: 768px) {
+    // 6.1 Layout Adjustments
+
+    // Remove sticky and height constraints on sidebars on mobile, so they stack naturally.
+    .left > .sidebar,
+    .right > .sidebar {
+        position: static;
+        max-height: none;
+        // Adjust margins to align with the main content area
+        margin-left: var(--gap-m);
+        margin-right: var(--gap-m);
+    }
+
+    // 6.2 Card Adjustments for Main Content
+
+    .center > .page-header,
+    .center > .content {
+        // Reduce external margin to give more space
+        margin-bottom: var(--gap-m); 
+        // Reduce internal padding for a tighter fit on small screens
+        padding: var(--gap-m); 
+        // Ensure content is full width on mobile view
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+    
+    // 6.3 Typography and Spacing
+
+    .article-title {
+        font-size: 2rem; // Scale down the large title
+    }
+
+    // Remove max-width constraint for better utilization of smaller screens
+    .content p, .content li {
+        max-width: none; 
+    }
+    
+    // Hide the desktop explorer button on mobile devices if needed (assuming Quartz manages mobile explorer)
+    .desktop-explorer {
+        display: none;
+    }
+}
