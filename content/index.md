@@ -35,7 +35,7 @@ Leading the development of the official **Pepsi website for Bangladesh** was a m
 
 A European Heating Appliance Brand Aiming To Boost Sales Of Its Bilight Anniversary Edition By Leveraging Its 30-year Legacy. #warmthmadefortheworld
 
-[[TESY-WARMTHMADEFORTHEWORLD|View Case Study]]  
+[[Tesy Warmth Made For The World|View Case Study]]  
 
 
 [[Case-Studies/index|Read More Case Studies]]
@@ -47,7 +47,7 @@ A European Heating Appliance Brand Aiming To Boost Sales Of Its Bilight Annivers
 
 Understanding when a e-commerce become actually profitable by creating sales dashboard and exploring the dataset for Average Order Value to determine if the business is afloat. #MySql #Excel #PowerBI 
 
-[[Learn More]]
+[[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]
 
 ### My Portfolio Website is Just .md Files
 
