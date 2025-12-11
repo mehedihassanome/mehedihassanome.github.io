@@ -11,12 +11,24 @@ tags:
   - "#SQL"
   - "#Excel"
 ---
-## Ecommerce Executive Summary Dashboard:
-
+## 🧑‍💻Critical Business Understanding from Ecommerce Executive Summary Analysis
+## ↗️ Executive Summary:
 ![[Pasted image 20251209234608.png]]
 
 ---
-### Dataset: [ecommerce_sales_34550.csv]()
+
+
+### 🎯Objective:
+
+The objective is to build a visualization that supports business decision instantly. To support this I measured four key performance indicators supported by four point estimator to facilitate the understanding.
+- Month over month trend lines by revenue
+- Year over year revenue and cost comparison
+- Regional Performance Percentage
+- Top Performing Product
+Supporting Key point estimators in cards: `Total Revenue` `Total Profit Margin` `Gross Profit Margin` `Average Order Value` 
+
+---
+### Dataset: [ecommerce_sales_34550.csv](Ecoommerce-Dashboard/Dataset)
 
 This synthetic dataset represents **E-commerce sales transactions** containing **34,500 records across 17 features**. 
 ### 📊 Columns Overview
@@ -38,16 +50,6 @@ This synthetic dataset represents **E-commerce sales transactions** containing
 - `profit_margin` → Profit earned from the order
 - `customer_age` → Age of the customer (18–70)
 * `customer_gender` → Gender of the customer (Male/Female/Other)
-
----
-### 🎯Objective:
-
-The objective is to build a visualization that supports business decision instantly. To support this I measured four key performance indicators supported by four point estimator to facilitate the understanding.
-- Month over month trend lines by revenue
-- Year over year revenue and cost comparison
-- Regional Performance Percentage
-- Top Performing Product
-Supporting Key point estimators in cards: `Total Revenue` `Total Profit Margin` `Gross Profit Margin` `Average Order Value` 
 
 ---
 ### 📈 Month over Month Trend line:

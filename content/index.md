@@ -47,7 +47,7 @@ A European Heating Appliance Brand Aiming To Boost Sales Of Its Bilight Annivers
 
 Understanding when a e-commerce become actually profitable by creating sales dashboard and exploring the dataset for Average Order Value to determine if the business is afloat. #MySql #Excel #PowerBI 
 
-[[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]
+[[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]      [github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
 
 ### My Portfolio Website is Just .md Files
 
