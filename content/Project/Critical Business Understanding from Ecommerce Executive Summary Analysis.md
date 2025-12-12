@@ -13,7 +13,7 @@ tags:
 ---
 ## 🧑‍💻Critical Business Understanding from Ecommerce Executive Summary Analysis
 ## ↗️ Executive Summary:
-![[Pasted image 20251209234608.png]]
+![Dashboard](https://github.com/user-attachments/assets/c4c34ccc-d7dd-4dbd-b1f6-127596a6843d)
 
 ---
 
@@ -28,7 +28,7 @@ The objective is to build a visualization that supports business decision instan
 Supporting Key point estimators in cards: `Total Revenue` `Total Profit Margin` `Gross Profit Margin` `Average Order Value` 
 
 ---
-### Dataset: [ecommerce_sales_34550.csv](Ecoommerce-Dashboard/Dataset)
+### Dataset: [ecommerce_sales_34550.csv](/Dataset)
 
 This synthetic dataset represents **E-commerce sales transactions** containing **34,500 records across 17 features**. 
 ### 📊 Columns Overview
