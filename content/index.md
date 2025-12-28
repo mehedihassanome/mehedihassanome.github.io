@@ -49,11 +49,11 @@ Understanding when a e-commerce become actually profitable by creating sales das
 
 [[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]      [github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
 
-### My Portfolio Website is Just .md Files
+### Revenue Analysis of a Beverage Brand
 
-My whole portfolio website it just a cumulative collection of markdown files in a vault.
+Business revenue analysis across multiple dimension for retailers and visualizing it to make prompt decision about the business for future projection.
 
-[[Learn More]]
+[[Revenue Analysis of a Beverage Company|Learn More]]      [github](https://github.com/mehedihassanome/Revenue-Dashboard)
 
 ### The Fastest Way to Create and Share a Microsite Idea!
 
@@ -89,9 +89,11 @@ When you are moving fast, it's important to have something useful to showcase yo
 
 ## Writings & Thoughts
 
-- [[How I setup my obsidian notes to Github website]]
+- [[Why VLookup Does Not Make Sense Until You Do This]]
+- [[Common Reason for having Value! error for Xlookup Function]]
 - [[Why I Use Two Markdown Editor]]
 - [[Why SUMX's Expression is not called a Table]]
+- [[How I setup my obsidian notes to Github website]]
 - [[The Brand Strategy book that works and convert client]]
 
 [[Writtings--and--Thougts/index|More Thoughts]]
