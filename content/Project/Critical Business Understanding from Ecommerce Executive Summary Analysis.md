@@ -13,11 +13,9 @@ tags:
 ---
 ## 🧑‍💻Critical Business Understanding from Ecommerce Executive Summary Analysis
 ## ↗️ Executive Summary:
-![Dashboard](https://github.com/user-attachments/assets/c4c34ccc-d7dd-4dbd-b1f6-127596a6843d)
+![[Pasted image 20251209234608.png]]
 
 ---
-
-
 ### 🎯Objective:
 
 The objective is to build a visualization that supports business decision instantly. To support this I measured four key performance indicators supported by four point estimator to facilitate the understanding.
