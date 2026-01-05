@@ -12,60 +12,63 @@ Who loves using [datanalytics]() to build stronger connections between the brand
 [Resume](https://drive.google.com/file/d/195pgxbbR2-3InsAcv8wh2ErO7czyiU5f/view?usp=drive_link)  [LinkedIn](https:/www.linkedin.com/in/mehedi-hassan-ome-23344913a)  [Github](https://github.com/mehedihassanome) 
 
 ---
-## CASE STUDIES
-### Puma Chase the Greatness
+## 🛄 CASE STUDIES
+### <u>Puma Chase the Greatness</u>
 
 A Large-Scale **Puma Sports Shoe** on a car running the city showing down, coordinated with viral social media posts. and to top it off a surprise launching show by revealing celebrity cricketer to blow people mind. #chasethegreatness 
 
-[[Puma Chase The Greatness|View Case Study]]
+[[Puma Chase The Greatness|View Case Study]] 📰
 
-### Puma Fanatic-Wall 
+### <u>Puma Fanatic-Wall </u>
 
 Capturing the beating rhythm and energy of the young generation and the active lifestyle of Dhanmondi and PUMA through an interactive outdoor visual fused with a unique mobile-first experience. #fanaticwall 
 
-[[Puma Fanatic Wall|View Case Study]]
+[[Puma Fanatic Wall|View Case Study]] 📰
 
-### Pepsi More Fizz 
+### <u>Pepsi More Fizz </u>
 
 Leading the development of the official **Pepsi website for Bangladesh** was a moment of creative tension and suspense—driven by the challenge to build something that truly represents the brand: an unforgettable, immersive experience
 
-[[Pepsi Website Development|View Case Study]]      [Visit Website](https://tbl.com.bd)
+[[Pepsi Website Development|View Case Study]] 📰   [Visit Website](https://tbl.com.bd)
 
-### Tesy Warmth Made For the World
+### <u>Tesy Warmth Made For the World</u>
 
 A European Heating Appliance Brand Aiming To Boost Sales Of Its Bilight Anniversary Edition By Leveraging Its 30-year Legacy. #warmthmadefortheworld
 
-[[Tesy Warmth Made For The World|View Case Study]]  
+[[Tesy Warmth Made For The World|View Case Study]] 📰
 
 
-[[Case-Studies/index|Read More Case Studies]]
+[[Case-Studies/index|Read More Case Studies]] 🗂️
 
 ---
-## PROJECTS
 
-### Exploring E-Commerce's AOV
+## 💻PROJECTS
+
+### <u>Exploring E-Commerce's AOV</u>
 
 Understanding when a e-commerce become actually profitable by creating sales dashboard and exploring the dataset for Average Order Value to determine if the business is afloat. #MySql #Excel #PowerBI 
 
 [[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]      [github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
 
-### Revenue Analysis of a Beverage Brand
+### <u>Revenue Analysis of a Beverage Brand</u>
 
-Business revenue analysis across multiple dimension for retailers and visualizing it to make prompt decision about the business for future projection.
+Business revenue analysis across multiple dimension for retailers and visualizing it to make prompt decision about the business for future projection. #PowerBI #Excel #PowerQuery 
 
 [[Revenue Analysis of a Beverage Company|Learn More]]      [github](https://github.com/mehedihassanome/Revenue-Dashboard)
 
-### The Fastest Way to Create and Share a Microsite Idea!
 
-When you are moving fast, it's important to have something useful to showcase your ideas for collaboration and achieving a projects goals.
+### <u>Cafe Sales Data Cleaning Process</u>
 
-[[Learn More]]
+Restored data integrity to a highly corrupted 10,000-row dataset (96% error rate). Utilizing **Power Query** and advanced **cross-field validation**, I recovered 4,000+ records and delivered **100% validated calculated fields**, turning unusable data into actionable insights.  #Excel #PowerQuery 
+
+[[Cafe Sales Data Cleaning Process|Learn More]]     [github]()
 
 
-[[Project/index|More Projects]]
+[[Project/index|More Projects]] 📝
 
 ---
-## Education and Experiences
+
+## 🎓<u>Education and Experiences</u>
 
 - 💼 **Work Experience** 
 	Strategic and Planning Executive,
@@ -82,12 +85,12 @@ When you are moving fast, it's important to have something useful to showcase yo
 - 📑**Thesis**
 	Willingness to Pay For Street Food Safety
 
-## Key Skills
+## 🥷<u>Key Skills</u>
 
 `Brand Strategy`, `Data Analysis`, `Market Research`, `Data-driven Digital Media Strategy`,  `Competitor Analysis`, `Meta Business Suite`, `Power BI Desktop`, `MySQL`, `SQL`, `Microsoft Office`, `R Programming`, `HTML`, `CSS`, `Latex`, `Python`
 
 
-## Writings & Thoughts
+## 🤔<u>Writings & Thoughts</u>
 
 - [[Why VLookup Does Not Make Sense Until You Do This]]
 - [[Common Reason for having Value! error for Xlookup Function]]
@@ -96,5 +99,6 @@ When you are moving fast, it's important to have something useful to showcase yo
 - [[How I setup my obsidian notes to Github website]]
 - [[The Brand Strategy book that works and convert client]]
 
-[[Writtings--and--Thougts/index|More Thoughts]]
+[[Writtings--and--Thougts/index|More Thoughts]] 💭
 
+---
