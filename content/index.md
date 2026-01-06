@@ -9,7 +9,7 @@ socialImage:
 ###  A Brand Strategy Enthusiast,
 Who loves using [datanalytics]() to build stronger connections between the brand and the audiences. Over the years I got the opportunity to work with some of the biggest brands like **Puma**, **Pepsi**, **Tesy** and many more. Honing my ability to do Analytics-Driven brand strategy to drive brand growth. 
 
-[Resume](https://drive.google.com/file/d/195pgxbbR2-3InsAcv8wh2ErO7czyiU5f/view?usp=drive_link)  [LinkedIn](https:/www.linkedin.com/in/mehedi-hassan-ome-23344913a)  [Github](https://github.com/mehedihassanome) 
+[Resume](https://drive.google.com/file/d/195pgxbbR2-3InsAcv8wh2ErO7czyiU5f/view?usp=drive_link)  [LinkedIn](https://www.linkedin.com/in/mho20)  [Github](https://github.com/mehedihassanome) 
 
 ---
 ## 🛄 CASE STUDIES
@@ -48,20 +48,20 @@ A European Heating Appliance Brand Aiming To Boost Sales Of Its Bilight Annivers
 
 Understanding when a e-commerce become actually profitable by creating sales dashboard and exploring the dataset for Average Order Value to determine if the business is afloat. #MySql #Excel #PowerBI 
 
-[[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]      [github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
+[[Critical Business Understanding from Ecommerce Executive Summary Analysis|Learn More]]   🧵   [github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
 
 ### <u>Revenue Analysis of a Beverage Brand</u>
 
 Business revenue analysis across multiple dimension for retailers and visualizing it to make prompt decision about the business for future projection. #PowerBI #Excel #PowerQuery 
 
-[[Revenue Analysis of a Beverage Company|Learn More]]      [github](https://github.com/mehedihassanome/Revenue-Dashboard)
+[[Revenue Analysis of a Beverage Company|Learn More]]   🧵   [github](https://github.com/mehedihassanome/Revenue-Dashboard)
 
 
 ### <u>Cafe Sales Data Cleaning Process</u>
 
 Restored data integrity to a highly corrupted 10,000-row dataset (96% error rate). Utilizing **Power Query** and advanced **cross-field validation**, I recovered 4,000+ records and delivered **100% validated calculated fields**, turning unusable data into actionable insights.  #Excel #PowerQuery 
 
-[[Cafe Sales Data Cleaning Process|Learn More]]     [github]()
+[[Cafe Sales Data Cleaning Process|Learn More]]  🧵  [github](https://github.com/mehedihassanome/Cafe-Sales-Data-Cleaning)
 
 
 [[Project/index|More Projects]] 📝
