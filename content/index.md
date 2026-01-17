@@ -9,7 +9,8 @@ socialImage:
 ###  A Brand Strategy Enthusiast,
 Who loves using [datanalytics]() to build stronger connections between the brand and the audiences. Over the years I got the opportunity to work with some of the biggest brands like **Puma**, **Pepsi**, **Tesy** and many more. Honing my ability to do Analytics-Driven brand strategy to drive brand growth. 
 
-📑 [Resume](https://drive.google.com/file/d/1wude8fn9Kr7DECFgtfliHjMjeE5xYMN0/view?usp=sharing)  💼[LinkedIn](https://www.linkedin.com/in/mho20)  🌐[Github](https://github.com/mehedihassanome) 
+#### ✨**Links:**
+📑[Resume](https://drive.google.com/file/d/1wude8fn9Kr7DECFgtfliHjMjeE5xYMN0/view?usp=sharing)  [LinkedIn](https://www.linkedin.com/in/mho20)  [Github](https://github.com/mehedihassanome) 
 
 ---
 ## 🛄 CASE STUDIES
@@ -72,7 +73,7 @@ Restored data integrity to a highly corrupted 10,000-row dataset (96% error rate
 
 - 💼 **Work Experience** 
 	Strategic and Planning Executive,
-	Living Brands | 2021 - Present
+	Living Brands | 2020 - Present
 
 - 🎓 **Education**
 	Bachelor of Social, Science in Economics
