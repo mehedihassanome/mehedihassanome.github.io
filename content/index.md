@@ -9,7 +9,7 @@ socialImage:
 ###  A Brand Strategy Enthusiast,
 Who loves using [datanalytics]() to build stronger connections between the brand and the audiences. Over the years I got the opportunity to work with some of the biggest brands like **Puma**, **Pepsi**, **Tesy** and many more. Honing my ability to do Analytics-Driven brand strategy to drive brand growth. 
 
-[Resume](https://drive.google.com/file/d/195pgxbbR2-3InsAcv8wh2ErO7czyiU5f/view?usp=drive_link)  [LinkedIn](https://www.linkedin.com/in/mho20)  [Github](https://github.com/mehedihassanome) 
+📑 [Resume](https://drive.google.com/file/d/1wude8fn9Kr7DECFgtfliHjMjeE5xYMN0/view?usp=sharing)  💼[LinkedIn](https://www.linkedin.com/in/mho20)  🌐[Github](https://github.com/mehedihassanome) 
 
 ---
 ## 🛄 CASE STUDIES
